@@ -1,18 +1,104 @@
-# 💫 About Me:
-Final-year Computer Engineering student with a strong passion for DevOps, Cloud Computing, and Open Source. I enjoy building reliable, scalable, and automated systems while continuously exploring modern infrastructure and deployment practices.<br><br>Currently focused on mastering Docker, Kubernetes, Terraform, Jenkins, CI/CD pipelines, and cloud technologies, with a keen interest in infrastructure automation and platform engineering. I actively seek opportunities to contribute to open-source projects, collaborate with developers worldwide, and learn from real-world engineering challenges.<br><br>My technical foundation includes Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, and Full-Stack Development, enabling me to approach problems with both software and infrastructure perspectives.<br><br>Driven by curiosity and continuous learning, I am always excited to work on impactful projects, embrace new technologies, and connect with professionals who are passionate about building efficient, scalable, and production-ready solutions.<br>
+# 💫 About Me
 
+🚀 Final-year Computer Engineering student passionate about **DevOps, Cloud Computing, and Open Source**. I enjoy building scalable, reliable, and automated systems while exploring modern infrastructure and deployment practices.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jyotikamittal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/jyotika-mittal-2553a3255) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jyotikamittal414@gmail.com) 
+Currently focused on mastering **Docker, Kubernetes, Terraform, Jenkins, CI/CD pipelines, Linux, and Cloud Technologies**, with a strong interest in infrastructure automation and platform engineering.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=plastic&logo=nim&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=plastic&logo=apple&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=plastic&logo=Apache%20Ant&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Jyotika-Mittal&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Jyotika-Mittal&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jyotika-Mittal&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I actively seek opportunities to contribute to **Open Source Projects**, collaborate with developers worldwide, and learn from real-world engineering challenges.
+
+My technical foundation includes **Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, and Full-Stack Development**, enabling me to approach problems from both software and infrastructure perspectives.
+
+Driven by curiosity and continuous learning, I am always excited to work on impactful projects, embrace new technologies, and build production-ready solutions.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Jyotika-Mittal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jyotika-mittal-2553a3255/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/jyotikamittal_)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:jyotikamittal414@gmail.com)
+
+---
+
+# ⚙️ DevOps & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,aws,linux,git,github,githubactions,mongodb,mysql,nodejs,react,cpp,java,python" />
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/K4RwxHkC2t/">
+    <img src="https://leetcard.jacoblin.cool/K4RwxHkC2t?theme=dark&font=Nunito&ext=contest" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/jyotikamittal1">
+    <img src="https://img.shields.io/badge/CodeChef-4★%20%7C%20Rating%201796-brown?style=for-the-badge&logo=codechef" />
+  </a>
+</p>
+
+<p align="center">
+  ⭐ <b>CodeChef Rating:</b> 1796 (4★)
+</p>
+
+---
+
+# 🚀 DevOps Journey
+
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="500">
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+* Kubernetes & Helm
+* Advanced Terraform
+* GitOps with ArgoCD
+* AWS Cloud Services
+* Open Source Contribution Workflow
+* CI/CD Best Practices
+
+---
+
+# 🌟 Featured Projects
+
+### 🔹 Placement Portal
+
+Campus recruitment platform with role-based access and streamlined hiring workflow.
+
+### 🔹 MediWise
+
+AI-assisted prescription analysis and medicine recommendation platform.
+
+### 🔹 DevOps Projects
+
+Dockerized applications, CI/CD pipelines, Infrastructure as Code with Terraform, Jenkins automation, and cloud deployments.
+
+### 🔹 Open Source Contributions
+
+Actively contributing to DevOps and cloud-native projects.
+
+---
+
+# 📈 GitHub Activity
+
+[![Jyotika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jyotika-Mittal\&theme=github-compact)](https://github.com/Jyotika-Mittal)
+
+---
+
+# 📚 Most Used Languages
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotika-Mittal&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+[![](https://komarev.com/ghpvc/?username=Jyotika-Mittal\&icon=0\&color=0)](https://visitcount.itsvg.in)
