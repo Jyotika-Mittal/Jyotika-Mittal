@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🚀 Final-year Computer Engineering student passionate about **DevOps, Cloud Computing, and Open Source**. I enjoy building scalable, reliable, and automated systems while exploring modern infrastructure and deployment practices.
+Final-year Computer Engineering student passionate about **DevOps, Cloud Computing, and Open Source**. I enjoy building scalable, reliable, and automated systems while exploring modern infrastructure and deployment practices.
 
 Currently focused on mastering **Docker, Kubernetes, Terraform, Jenkins, CI/CD pipelines, Linux, and Cloud Technologies**, with a strong interest in infrastructure automation and platform engineering.
 
@@ -40,7 +40,7 @@ Driven by curiosity and continuous learning, I am always excited to work on impa
 
 <p align="center">
   <a href="https://www.codechef.com/users/jyotikamittal1">
-    <img src="https://img.shields.io/badge/🏆%20CodeChef-4★%20|%20Rating%201796-brown?style=for-the-badge" height="45"/>
+    <img src="https://img.shields.io/badge/CodeChef-3★%20|%20Rating%201796-5E3B1F?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
@@ -49,11 +49,17 @@ Driven by curiosity and continuous learning, I am always excited to work on impa
 </h3>
 
 <p align="center">
-  Global Rank: 1062
+  🌍 Global Rank: <b>1062</b>
 </p>
+
 <p align="center">
-  <img src="assets_profile.png.png" alt="Profile" width="250"/>
+  <img
+    src="assets_profile.png.png"
+    alt="CodeChef Rating Graph"
+    width="600"
+  />
 </p>
+
 
 ---
 
