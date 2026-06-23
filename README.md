@@ -36,14 +36,20 @@ Driven by curiosity and continuous learning, I am always excited to work on impa
   </a>
 </p>
 
+<br>
+
 <p align="center">
   <a href="https://www.codechef.com/users/jyotikamittal1">
-    <img src="https://img.shields.io/badge/CodeChef-4★%20%7C%20Rating%201796-brown?style=for-the-badge&logo=codechef" />
+    <img src="https://img.shields.io/badge/🏆%20CodeChef-4★%20|%20Rating%201796-brown?style=for-the-badge" height="45"/>
   </a>
 </p>
 
+<h3 align="center">
+⭐ CodeChef Rating: 1796 (3★)
+</h3>
+
 <p align="center">
-  ⭐ <b>CodeChef Rating:</b> 1796 (4★)
+  Global Rank: 1062
 </p>
 
 ---
