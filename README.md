@@ -63,11 +63,52 @@ Driven by curiosity and continuous learning, I am always excited to work on impa
 
 ---
 
-# 🚀 DevOps Journey
+# 🌟 Portfolio & Achievements
 
 <p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="500">
+  <a href="https://my-portfolio-dun-phi-93.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge" />
+  </a>
+
+  <a href="https://drive.google.com/drive/folders/1xCfJnVvo3i4bjv4i7vNBhgijnnsKvfaT?usp=sharing">
+    <img src="https://img.shields.io/badge/🏆_Achievements_&_Certificates-View_Collection-2EA44F?style=for-the-badge" />
+  </a>
 </p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🌐 Portfolio
+
+Explore my projects, technical skills, internships, hackathons, and development journey.
+
+<a href="https://my-portfolio-dun-phi-93.vercel.app/">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-0A66C2?style=for-the-badge" />
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🏆 Certifications & Achievements
+
+Courses, certifications, hackathons, coding achievements, workshops, and technical accomplishments.
+
+<a href="https://drive.google.com/drive/folders/1xCfJnVvo3i4bjv4i7vNBhgijnnsKvfaT?usp=sharing">
+  <img src="https://img.shields.io/badge/View_Certificates-2EA44F?style=for-the-badge" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <i>Building AI-powered solutions, full-stack applications, and innovative projects while continuously learning and contributing to the tech community.</i>
+</p>
+
 
 ---
 
