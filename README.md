@@ -52,7 +52,7 @@ Driven by curiosity and continuous learning, I am always excited to work on impa
   Global Rank: 1062
 </p>
 <p align="center">
-  <img src="assets/assets_profile.png.png" alt="Profile" width="250"/>
+  <img src="assets_profile.png.png" alt="Profile" width="250"/>
 </p>
 
 ---
